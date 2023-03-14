@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=oscargoes&show_icons=true&theme=transparent">
 
-I am a computer science major with a business minor currently studying at the University of Texas at Austin. 
+I am a Computer Science major with a Business minor currently studying at the University of Texas at Austin. 
 My primary interests lie in full-stack web development and artificial intelligence. 
 I am constantly seeking to expand my knowledge in these areas and develop practical skills that can contribute to the tech industry. 
 When I'm not coding or studying, I enjoy exploring my hobbies, which include tinkering with mechanical keyboards, playing video games, and listening to music.
@@ -34,3 +34,9 @@ When I'm not coding or studying, I enjoy exploring my hobbies, which include tin
 [![NodeJS](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/-flask-222222?style=for-the-badge&logo=flask&logoColor=white)](https://jupyter.org/)
+
+# ⌨️ My Keyboard
+
+Zoom65 E-white, PVD Mirror Gold weight + knob  
+POM Plate  
+KAT Great Wave keycaps  
