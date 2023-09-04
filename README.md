@@ -7,7 +7,7 @@
 I am a Computer Science major with a Business minor currently studying at the University of Texas at Austin. 
 My primary interests lie in full-stack web development and artificial intelligence. 
 I am constantly seeking to expand my knowledge in these areas and develop practical skills that can contribute to the tech industry. 
-When I'm not coding or studying, I enjoy exploring my hobbies, which include tinkering with mechanical keyboards, playing video games, and listening to music.
+When I'm not coding or studying, I enjoy exploring my hobbies, which include photography, tinkering with mechanical keyboards, playing video games, and listening to music.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscarjgoes/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goesoscar@gmail.com)
